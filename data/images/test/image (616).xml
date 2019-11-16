@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image (616).jpg</filename>
+	<path>C:\Users\arif\Downloads\Compressed\test\image (616).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ssgc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>224</ymin>
+			<xmax>571</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ssgc</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>39</ymin>
+			<xmax>134</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>
